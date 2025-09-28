@@ -1,0 +1,124 @@
+body{
+    margin-top: 80px;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circle1{
+    width: 30rem;
+    height: 30rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.circle2{
+    width: 27rem;
+    height: 27rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+.circle3{
+    width: 24rem;
+    height: 24rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: black;
+    position: absolute;
+    top: 55px;
+    left: 55px;
+}
+.circle4{
+    width: 21rem;
+    height: 21rem;
+    border-radius: 50%;
+    border: 2px solid white;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+.circle5{
+    width: 18rem;
+    height: 18rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: skyblue;
+    position: absolute;
+    top: 105px;
+    left: 105px;
+}
+.circle6{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: skyblue;
+    position: absolute;
+    top: 125px;
+    left: 125px;
+}
+.circle7{
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: red;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.circle8{
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: red;
+    position: absolute;
+    top: 175px;
+    left: 175px;
+}
+.circle9{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: yellow;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.circle10{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: yellow;
+    position: absolute;
+    top: 225px;
+    left: 225px;
+}
+
+.horizontal{
+    position:absolute;
+    top:249px;
+    left:241px;
+    width:20px;
+    height:2px;
+    background: black;
+} 
+
+.vertical{
+    position:absolute;
+    top:241px;
+    left:250px;
+    width:2px;
+    height:20px;
+    background: black;
+}
